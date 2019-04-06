@@ -2,7 +2,7 @@ package servicosgerais_dto.dto;
 
 import java.util.List;
 
-public class ConversaChatDTO{
+public class ConversaChatDTO implements DTOInterface{
 
 	private int id;
 

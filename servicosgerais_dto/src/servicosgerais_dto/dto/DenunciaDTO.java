@@ -1,6 +1,6 @@
 package servicosgerais_dto.dto;
 
-public class DenunciaDTO{
+public class DenunciaDTO implements DTOInterface{
 
 	private int id;
 

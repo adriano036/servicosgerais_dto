@@ -1,6 +1,6 @@
 package servicosgerais_dto.dto;
 
-public class EnderecoDTO{
+public class EnderecoDTO implements DTOInterface{
 	
 	private int id;
 

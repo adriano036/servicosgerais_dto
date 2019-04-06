@@ -2,7 +2,7 @@ package servicosgerais_dto.dto;
 
 import java.sql.Date;
 
-public class ComentarioDTO{
+public class ComentarioDTO implements DTOInterface{
 
 	private int id;
 

@@ -2,7 +2,7 @@ package servicosgerais_dto.dto;
 
 import java.sql.Date;
 
-public class MensagemConversaDTO{
+public class MensagemConversaDTO implements DTOInterface{
 	
 	private int id;
 

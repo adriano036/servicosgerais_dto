@@ -3,7 +3,7 @@ package servicosgerais_dto.dto;
 import java.math.BigDecimal;
 import java.util.List;
 
-public class ServicoPrestadoDTO{
+public class ServicoPrestadoDTO implements DTOInterface{
 	
 	private int id;
 

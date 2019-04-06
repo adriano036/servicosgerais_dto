@@ -2,7 +2,7 @@ package servicosgerais_dto.dto;
 
 import java.util.List;
 
-public class PrestadorDTO{
+public class PrestadorDTO implements DTOInterface{
 	
 	private int id;
 

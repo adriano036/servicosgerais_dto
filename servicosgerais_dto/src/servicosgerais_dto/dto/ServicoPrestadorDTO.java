@@ -2,7 +2,7 @@ package servicosgerais_dto.dto;
 
 import java.io.Serializable;
 
-public class ServicoPrestadorDTO implements Serializable {
+public class ServicoPrestadorDTO implements Serializable, DTOInterface {
 	
 	private static final long serialVersionUID = 1L;
 
